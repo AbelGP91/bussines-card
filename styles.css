@@ -1,0 +1,32 @@
+body{
+    margin: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14;
+}
+
+.avatar{
+   width: 150px;
+   border: 5px solid rgba(9, 9, 9, 0.463);
+}
+
+.datos{
+    margin: auto 0px;
+}
+
+.card{
+    display: flex;
+    width: 400px;
+    margin: 0px auto;
+    padding: 20px;
+    justify-content: space-around;
+    text-align: center;
+    background: rgb(235, 156, 8);
+    color: #2b2939;
+    border-bottom: 5px solid rgba(9, 9, 9, 0.463);
+    border-right: 5px solid rgba(9, 9, 9, 0.463);
+    border-radius: 20px;
+}
+
+.border{
+    border: 1px dotted rgba(9, 9, 9, 0.389);
+}
